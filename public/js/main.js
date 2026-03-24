@@ -317,8 +317,8 @@ const cloaks = [
   },
   {
     name: "classroom",
-    icon: "/./media/cloaks/Classroom.png",
-    title: "Google Classroom",
+    icon: "/./media/cloaks/classroom.png",
+    title: "Home - Classroom",
   },
   {
     name: "canvas",
